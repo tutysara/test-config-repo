@@ -12,4 +12,4 @@ server:
       min-spare: 5
 
 polar:
-  greeting: Welcome to the dev config-server book catalog!
+  greeting: Welcome to the dev config-server refresh book catalog!
